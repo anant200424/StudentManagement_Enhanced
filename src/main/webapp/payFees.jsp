@@ -3,7 +3,7 @@
 <%
   Student student=(Student)session.getAttribute("student");
   if(student==null){response.sendRedirect("login.jsp");return;}
-  String RAZORPAY_KEY="rzp_test_YourKeyHere"; // ← PUT YOUR RAZORPAY TEST KEY HERE
+  String RAZORPAY_KEY="rzp_test_SumRtpweY3GkdK"; // ← PUT YOUR RAZORPAY TEST KEY HERE
 %>
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">

@@ -103,7 +103,7 @@ footer{position:relative;z-index:1;padding:60px;text-align:center;border-top:1px
 .flinks{display:flex;gap:28px;justify-content:center;margin:22px 0;flex-wrap:wrap;}
 .flinks a{color:var(--muted);text-decoration:none;font-size:.85rem;transition:color .2s;}
 .flinks a:hover{color:var(--accent);}
-.fcopy{color:#3a4568;font-size:.78rem;margin-top:28px;}
+.fcopy{color:pink;font-size:.78rem;margin-top:28px;}
 
 @media(max-width:768px){nav{padding:16px 20px;}.nav-links,.nav-btns{display:none;}.feat-sec,.roles-sec{padding:60px 20px;}.roles-grid{grid-template-columns:1fr;}}
 </style>
@@ -203,7 +203,7 @@ footer{position:relative;z-index:1;padding:60px;text-align:center;border-top:1px
     <a href="register.jsp">Register</a>
     <a href="#features">Features</a>
   </div>
-  <p class="fcopy">© 2026 EduSphere · Major Project · 4th Year Computer Science · Kolkata</p>
+  <p class="fcopy">© 2026 EduSphere · ANANT Major Project · 4th Year Computer Science · Bhubaneswar</p>
 </footer>
 
 <script>
